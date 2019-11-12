@@ -14,6 +14,7 @@ You need :
 1)Java version 8 (it got decremented in the newer versions. Now, we use JavaFX an Swing)
 2)Command prompt
 On the command prompt, navigate to the folder containing the files (find out your command for your OS) , type the following command:
->>javac calci.java (compiling the program)
->>appletviewer calci.html (running it on html)
+>> >>javac calci.java (compiling the program)
+
+>> >>appletviewer calci.html (running it on html)
 and a small window will pop up
